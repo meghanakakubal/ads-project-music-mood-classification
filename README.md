@@ -30,7 +30,7 @@ The final evaluation of this is tested with five different modern pop songs in f
 
 RNN Confusion matrix on test set:
 
-[see charts/tables in pdf version please!]
+***[see charts/tables in pdf version please!]***
 
 
 From CNN (acc = 88.67%, loss = 0.2879) & RNN (acc = 73.91%, loss = 1.041) performance for music emotion recognition. We can observe that CNN convergence effectively at epochs = 500 while the RNN performed better at early stopping from our audio samples. 
