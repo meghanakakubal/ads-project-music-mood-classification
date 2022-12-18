@@ -38,8 +38,8 @@ From CNN (acc = 88.67%, loss = 0.2879) & RNN (acc = 73.91%, loss = 1.041) perfor
 CNN model tend to classify pop songs that are true = ‘sad’ or ‘angry’ as ‘fearful’ whereas RNN tend to classify them as ‘happy’ or ‘calm’. 
 
 There are still trainings that can be done for model since our model has bias in its: 
-CNN tendency in classifying non-happy songs that are neutral or calm into negative emotions.
-RNN tendency in classifying songs into happy (which explains the lower accuracy relative to CNN).
+* CNN tendency in classifying non-happy songs that are neutral or calm into negative emotions.
+* RNN tendency in classifying songs into happy (which explains the lower accuracy relative to CNN).
 
 There are areas for improvement in this project. For example, the dataset used in study may not been representative of different music genres and emotions, thus, not generalized well into other datasets. Also, there are features or representations of data that can be further explored and improve performance on.
 
@@ -49,12 +49,12 @@ For future research,  we can address these limitations and continuously advance 
 
 
 ## **GitHub Repository and Code Structure Description:** ##
-CNN_Music_Mood_Classification.ipynb (CNN Implementation notebook)
-RNN_Music_Mood_Classification.ipynb (RNN Implementation notebook)
+* CNN_Music_Mood_Classification.ipynb (CNN Implementation notebook)
+* RNN_Music_Mood_Classification.ipynb (RNN Implementation notebook)
 
 ## **How to Run Code:** ##
-Please run our notebooks in Google Colab
-You can access the data by adding this data folder to your drive and then modifying the path variable in the notebooks 
+* Please run our notebooks in Google Colab
+* You can access the data by adding this data folder to your drive and then modifying the path variable in the notebooks 
 
 
 
