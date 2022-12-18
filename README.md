@@ -4,7 +4,7 @@ Advanced Topics in Data Science (DS-UA 301)
 By Mindy Wu & Meghana Kakubal
 
 
-##**Project Overview:**
+## **Project Overview:** ##
 
 Data
 The project consists of a collection of audio files from RAVDESS dataset, which contains actors singing various phrases with specific emotions. The mood category include ‘ emotions = { "neutral": "01", "calm": "02", "happy": "03", "sad": "04", "angry": "05", "fearful": "06", "disgust": "07", "surprised": "08" }.
@@ -23,7 +23,7 @@ The final evaluation of this is tested with five different modern pop songs in f
 
  
 
-##**Results:**
+## **Results:** ##
 
 
 
@@ -48,11 +48,11 @@ For future research,  we can address these limitations and continuously advance 
 
 
 
-##**GitHub Repository and Code Structure Description:**
+## **GitHub Repository and Code Structure Description:** ##
 CNN_Music_Mood_Classification.ipynb (CNN Implementation notebook)
 RNN_Music_Mood_Classification.ipynb (RNN Implementation notebook)
 
-##**How to Run Code:**
+## **How to Run Code:** ##
 Please run our notebooks in Google Colab
 You can access the data by adding this data folder to your drive and then modifying the path variable in the notebooks 
 
